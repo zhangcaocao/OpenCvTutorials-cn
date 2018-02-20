@@ -1,0 +1,2 @@
+# OpenCvTutorialsChinese-translation
+OpenCv3.1Tutorials的中文翻译
