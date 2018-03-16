@@ -1,4 +1,4 @@
-# OpenCvTutorialsChinese-translation
+# OpenCvTutorials - cn
 ##### OpenCv3.1Tutorials的中文翻译
 
 自己边学边翻译的，欢迎阅读，指正。若您觉得翻译得不好，欢迎留言，或者直接clone本项目，进行修改。。。
